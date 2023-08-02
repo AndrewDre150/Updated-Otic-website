@@ -24,9 +24,9 @@ const Footer = () => {
             </div>
           </div>
           <div style={{display:'flex', flexDirection:'row'}}>
-    <a href='https://twitter.com/otic_tech'><FontAwesomeIcon icon={faFacebook} size='1x' className="icon-spacing"/></a>
+    <a href='#'><FontAwesomeIcon icon={faFacebook} size='1x' className="icon-spacing"/></a>
   	 				<div style={{width:'0.5rem'}}></div>
-            <a href="#"><FontAwesomeIcon icon={faTwitter} size='1x' className="icon-spacing" /></a>
+            <a href="https://twitter.com/otic_tech"><FontAwesomeIcon icon={faTwitter} size='1x' className="icon-spacing" /></a>
   	 				<div style={{width:'0.5rem'}}></div>
   	 				<a href="#"><FontAwesomeIcon icon={faLinkedin} size='21' className="icon-spacing" /></a>
    </div>    
